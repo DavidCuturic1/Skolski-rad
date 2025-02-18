@@ -1,0 +1,18 @@
+a:link{opacity: 0.3; filter:alpha(opacity=30);}
+a:hover{opacity: 1; filter: alpha(opacity=100);}
+h1,h2{
+    font-size: 30px;
+    background-color: palevioletred;
+    width: 170px;
+    padding: 20px;  
+    display: inline-block;
+}
+h2{
+    background-color: red;
+    
+    
+}
+a{
+    color: white;
+}
+

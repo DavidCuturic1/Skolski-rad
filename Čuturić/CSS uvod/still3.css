@@ -1,0 +1,17 @@
+h1,h2{
+    font-size: 26px;
+    font-family: serif;
+    color: #424242;
+    font-weight: bold;
+}
+h2{
+    font-size: 20px;
+    color: red;
+    font-weight: normal;
+    background-color:#eeeeee;
+}
+p{
+    font-size: 13px;
+    color: #c2c2c2;
+    font-family: sans-serif;
+}
